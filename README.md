@@ -8,7 +8,7 @@ This project is all about:
 - **Understanding Android Studio**: Getting familiar with the interface, layout editors, and tools.
 - **UI Basics**: Learning how to manipulate UI elements such as text, buttons, and colors.
 - **Event Handling**: Implementing simple event listeners to respond to user interactions like button clicks.
-- **XML and Java/Kotlin**: Writing code in XML for layouts and either Java or Kotlin for backend logic.
+- **XML and Java/Kotlin**: Writing code in XML for layouts and Java for backend logic.
 
 ## 🔧 Features
 - **Color Changes**: Experimenting with how to dynamically change the color of UI elements like backgrounds and text.
